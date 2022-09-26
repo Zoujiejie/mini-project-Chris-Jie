@@ -103,13 +103,15 @@ main > section > article  h4 {
 
 main > section > article  p {
     color: white;
-    margin-top: 50px;
+    margin-top: 40px;
     margin-left: 40px;
     margin-right: 40px;
     background-color: rgb(159, 20, 112);
     border-radius: 8px;
-    padding: 20px; 
+    padding: 10px; 
+    display: block;
 }
+
 
 footer {
     display: block;
